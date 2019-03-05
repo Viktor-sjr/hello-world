@@ -1,9 +1,6 @@
 # hello-world
 my first repository
 aaaaaaaaaaaaaaa
+<<<<<<< HEAD
 
-bbbbbbbbbbbb
-
-learn git is easy!
-=======
->>>>>>> parent of e5cf7db... Update README.md
+bbbbbbbbbbb
